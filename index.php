@@ -14,20 +14,20 @@
     .container {
       margin: 0 auto;
       max-width: 800px;
-      padding: 0 30px;
+      padding: 0 15px;
     }
 
     .title {
       font-size: 40px;
       margin: 50px 0 20px 0;
-      border-left: solid 7px #f77a9b;
+      border-left: solid 12px #f77a9b;
       padding-left: 10px;
     }
 
     .title2 {
       font-size: 30px;
       margin: 50px 0 20px 0;
-      border-left: solid 7px #f77a9b;
+      border-left: solid 12px #f77a9b;
       padding-left: 10px;
     }
 
@@ -49,7 +49,7 @@
       }
 
       .title {
-        font-size: 33px;
+        font-size: 37px;
       }
 
       .title2 {
