@@ -11,11 +11,11 @@
       font-family: "Montserrat", sans-serif;
     }
 
-    /* .container {
+    .container {
       margin: 0 auto;
-      max-width: 800px;
-      padding: 0 15px;
-    } */
+      max-width: 700px;
+      padding: 0 20px;
+    }
 
     .title {
       font-size: 40px;
