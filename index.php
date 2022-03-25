@@ -14,7 +14,7 @@
     .container {
       margin: 0 auto;
       max-width: 700px;
-      padding: 0 20px;
+      padding: 0 10px;
     }
 
     .title {
@@ -43,7 +43,7 @@
       padding-left: 10px;
     }
 
-    @media screen and (max-width: 600px) {
+    @media only screen and (max-width: 600px) {
       img {
         width: 100%;
       }
