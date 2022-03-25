@@ -13,8 +13,8 @@
 
     .container {
       margin: 0 auto;
-      max-width: 700px;
-      padding: 0 10px;
+      max-width: 800px;
+      padding: 0 15px;
     }
 
     .title {
@@ -39,14 +39,11 @@
     img {
       margin: 20px 0 70px 0;
       border-radius: 20px;
-      width:  70%;
-      padding-left: 10px;
+      padding-left: 20px;
+      width: 100%;
     }
 
     @media only screen and (max-width: 600px) {
-      img {
-        width: 100%;
-      }
 
       .title {
         font-size: 37px;
