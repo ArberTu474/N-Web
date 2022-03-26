@@ -39,7 +39,6 @@
     img {
       margin: 20px 0 70px 0;
       border-radius: 20px;
-      padding-left: 20px;
       width: 100%;
     }
 
